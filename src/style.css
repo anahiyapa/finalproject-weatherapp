@@ -36,19 +36,19 @@ img {
 
 .city {
   position: relative;
-  bottom: -10px;
+  bottom: -12px;
   font-family: "Inter Tight", sans-serif;
-  font-size: 40px;
+  font-size: 38px;
   font-weight: 900;
   color: whitesmoke;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  padding-left: 15px;
+  padding-left: 16px;
 }
 .big-icon {
-  width: 70px;
+  width: 65px;
   padding-top: 10px;
   position: relative;
-  bottom: 10px;
+  bottom: 14px;
   left: 8px;
   margin-right: 8px;
 }
@@ -67,16 +67,16 @@ img {
   position: relative;
   bottom: -5px;
   font-family: "Inter Tight", sans-serif;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 900;
   color: whitesmoke;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .units-farenheit {
   position: relative;
-  bottom: 8px;
+  bottom: 15px;
   font-family: "Inter Tight", sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 450;
   color: whitesmoke;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
