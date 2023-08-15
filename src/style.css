@@ -94,6 +94,10 @@ img {
 }
 .weather-description {
   padding-bottom: 10px;
+  text-transform: capitalize;
+  color: white;
+  font-size: 40;
+  font-weight: 600;
 }
 .humidity {
   padding-bottom: 10px;
