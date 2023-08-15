@@ -85,7 +85,7 @@ img {
   float: right;
   background-color: rgb(53, 53, 53, 0.6);
   color: white;
-  font-size: 40;
+  font-size: 17px;
   font-family: "Inter Tight", sans-serif;
   border-radius: 5px;
   padding: 60px 40px;
@@ -96,7 +96,7 @@ img {
   padding-bottom: 10px;
   text-transform: capitalize;
   color: white;
-  font-size: 40;
+  font-size: 17px;
   font-weight: 600;
 }
 .humidity {
