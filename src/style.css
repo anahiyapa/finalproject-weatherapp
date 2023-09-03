@@ -45,7 +45,7 @@ img {
   padding-left: 16px;
 }
 .big-icon {
-  width: 65px;
+  width: 70px;
   padding-top: 10px;
   position: relative;
   bottom: 14px;
@@ -139,4 +139,14 @@ img {
 footer {
   margin-top: -130px;
   margin-left: -20px;
+}
+
+.d-frex .active {
+  color: whitesmoke;
+  cursor: default;
+  text-decoration: none;
+}
+
+.d-frex .active:hover {
+  text-decoration: none;
 }

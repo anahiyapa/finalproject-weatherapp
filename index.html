@@ -32,7 +32,7 @@
           placeholder="Enter city"
           autocomplete="off"
           autofocus="on"
-          id="textinput"
+          id="city-input"
         />
         <button type="submit" class="btn btn-primary btn-sm search-button">
           Search
@@ -55,7 +55,10 @@
           <div class="d-frex">
             <img src="" alt="big icon" id="icon" class="big-icon" />
             <strong class="units" id="temperature-city"></strong>
-            <small class="units-farenheit">°C | <a href="#">°F</a></small>
+            <small class="units-farenheit"
+              ><a href="#" id="celsius-link" class="active">°C </a> |
+              <a href="#" id="fahrenheit-link">°F</a></small
+            >
           </div>
         </div>
       </div>
