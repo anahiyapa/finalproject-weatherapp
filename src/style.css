@@ -141,6 +141,10 @@ footer {
   margin-left: -20px;
 }
 
+.fahrenheitlink {
+  text-decoration: none;
+}
+
 .d-frex .active {
   color: whitesmoke;
   cursor: default;
